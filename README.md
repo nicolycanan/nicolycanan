@@ -1,76 +1,65 @@
+# 👩🏻‍💻 Nicoly Canan
 
-<table>
-<tr>
-<td valign="top" width="50%">
+**Desenvolvedora Android & Tecnologia**
 
-### Linguagens
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento Android e automação comercial. Tenho experiência com **Java, Kotlin, integração com dispositivos e SDKs**, além de projetos envolvendo **Inteligência Artificial, visão computacional e processamento de imagens**. Também gosto de explorar desenvolvimento Web como hobby e em projetos pessoais, utilizando tecnologias modernas e **inteligência artificial como parte do meu processo de desenvolvimento**.
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicoly%20Canan-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nicoly-canan/)
 
-### Android
+---
+
+## 🤖 Linguagens e Tecnologias
+
+### 📱 Mobile
 
 <p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="45" height="45" alt="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="45" height="45" alt="Gradle" />
 </p>
 
-### IA & Computer Vision
+### 🌐 Web
 
 <p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white">
-  <img src="https://img.shields.io/badge/AI-Assisted_Development-000000?style=flat-square&logo=openai&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" />
 </p>
 
-</td>
-
-<td valign="top" width="50%">
-
-### Web & Cloud
+### 🤖 IA & Visão Computacional
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow" />
 </p>
-
-<sub>💬 <code>// Web não é minha área principal — é meu laboratório para aprender, experimentar e transformar ideias em projetos reais.</code></sub>
-
-### Ferramentas
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <strong>Experiência com:</strong> ONNX Runtime, modelos ONNX, reconhecimento de imagens, processamento de imagens e integração de modelos de IA em aplicações Android.
 </p>
 
-</td>
-</tr>
-</table>
+### ☁️ Cloud, Banco de Dados & Ferramentas
 
-<div align="center">
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="45" height="45" alt="Cloudflare" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="45" height="45" alt="Notion" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="45" height="45" alt="Android Studio" />
+</p>
 
-<table>
-<tr>
-<td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolycanan&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="Nicoly Canan GitHub Stats"/>
-</td>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolycanan&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolycanan&theme=tokyonight&layout=compact" />
+</p>
 
-<td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolycanan&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Nicoly Canan Top Languages"/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolycanan&theme=tokyonight" />
+</p>
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolycanan&theme=transparent&hide_border=true" alt="Nicoly Canan GitHub Streak"/>
-
-</div>
