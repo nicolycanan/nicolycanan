@@ -1,3 +1,8 @@
+## 🧰 Tecnologias
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### Linguagens
 
@@ -16,15 +21,6 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white">
 </p>
 
-### Web & Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
-</p>
-
 ### IA & Computer Vision
 
 <p>
@@ -34,6 +30,21 @@
   <img src="https://img.shields.io/badge/AI-Assisted_Development-000000?style=flat-square&logo=openai&logoColor=white">
 </p>
 
+</td>
+
+<td valign="top" width="50%">
+
+### Web & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+</p>
+
+<sub>💬 <code>// Web não é minha área principal — é meu laboratório para aprender, experimentar e transformar ideias em projetos reais.</code></sub>
+
 ### Ferramentas
 
 <p>
@@ -41,18 +52,25 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </p>
 
----
+</td>
+</tr>
+</table>
+
 <div align="center">
 
+<table>
+<tr>
+<td>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolycanan&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="Nicoly Canan GitHub Stats"/>
+</td>
 
+<td>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolycanan&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Nicoly Canan Top Languages"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 <br>
-
-<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolycanan&theme=transparent&hide_border=true" alt="Nicoly Canan GitHub Streak"/>
 
