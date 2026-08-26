@@ -42,3 +42,18 @@
 </p>
 
 ---
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolycanan&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="Nicoly Canan GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolycanan&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Nicoly Canan Top Languages"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolycanan&theme=transparent&hide_border=true" alt="Nicoly Canan GitHub Streak"/>
+
+</div>
