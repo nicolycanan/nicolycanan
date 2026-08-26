@@ -1,19 +1,4 @@
 <div align="center">
-
-# Oi, eu sou a Nicoly 👋
-
-### Android • Automação Comercial • Projetos Pessoais
-
-<p>
-  <a href="https://www.linkedin.com/in/nicoly-canan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nicoly%20Canan-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
-
-</div>
-
----
-
 # 🧰 Tecnologias
 
 ### Linguagens
