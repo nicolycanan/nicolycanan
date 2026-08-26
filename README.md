@@ -1,4 +1,3 @@
-## 🧰 Tecnologias
 
 <table>
 <tr>
