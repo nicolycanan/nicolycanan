@@ -4,7 +4,7 @@
 ## 👩🏻‍💻 Sobre mim
 Desenvolvedora Android & Tecnologia
 
-Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedora Android na Gertec, com foco em Java, Kotlin, automação e integração de dispositivos.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em Java, Kotlin, automação e integração de dispositivos.
 
 Gosto de explorar IA, Computer Vision e desenvolvimento Web em projetos pessoais — usando IA também como parte do meu processo de desenvolvimento.
 
