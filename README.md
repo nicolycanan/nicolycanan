@@ -2,11 +2,10 @@
 <td width="50%" valign="top">
 
 ## 👩🏻‍💻 Sobre mim
-Desenvolvedora Android & Tecnologia
 
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em Java, Kotlin, automação e integração de dispositivos.
 
-Gosto de explorar IA, Computer Vision e desenvolvimento Web em projetos pessoais — usando IA também como parte do meu processo de desenvolvimento.
+Gosto de explorar IA e desenvolvimento Web em projetos pessoais, usando IA também como parte do meu processo de desenvolvimento.
 
 <img src="https://img.shields.io/badge/LinkedIn-Nicoly%20Canan-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 <a href="https://www.linkedin.com/in/nicoly-canan/">
