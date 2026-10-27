@@ -8,11 +8,12 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em Java, Kotlin, a
 
 Gosto de explorar IA, Computer Vision e desenvolvimento Web em projetos pessoais — usando IA também como parte do meu processo de desenvolvimento.
 
+<a href="https://www.linkedin.com/in/nicoly-canan/">
+
 📍 **São Paulo, Brasil**
 
 <br>
 
-<a href="https://www.linkedin.com/in/nicoly-canan/">
 <img src="https://img.shields.io/badge/LinkedIn-Nicoly%20Canan-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 <p align="center">
