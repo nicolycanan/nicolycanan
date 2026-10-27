@@ -8,13 +8,13 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em Java, Kotlin, a
 
 Gosto de explorar IA, Computer Vision e desenvolvimento Web em projetos pessoais — usando IA também como parte do meu processo de desenvolvimento.
 
+<img src="https://img.shields.io/badge/LinkedIn-Nicoly%20Canan-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 <a href="https://www.linkedin.com/in/nicoly-canan/">
 
 📍 **São Paulo, Brasil**
 
 <br>
 
-<img src="https://img.shields.io/badge/LinkedIn-Nicoly%20Canan-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolycanan&theme=tokyonight&layout=compact" />
