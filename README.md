@@ -16,13 +16,9 @@ Gosto de explorar IA, Computer Vision e desenvolvimento Web em projetos pessoais
 <img src="https://img.shields.io/badge/LinkedIn-Nicoly%20Canan-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nicolycanan&show_icons=true&theme=tokyonight" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolycanan&theme=tokyonight&layout=compact" />
 </p>
 
-<p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolycanan&theme=tokyonight" />
-</p>
 </td>
 
 <td width="50%" valign="top">
